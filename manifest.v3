@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="name">WmSAP</value>
+  <value name="name">MySAP</value>
   <value name="system_package">yes</value>
   <value name="enabled">yes</value>
   <value name="version">10.1.0.0.1013</value>
@@ -40,7 +40,7 @@
     </record>
   </array>
   <value name="subsystem">true</value>
-  <value name="product_id">WmSAP</value>
+  <value name="product_id">MySAP</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
   <null name="created_date"/>
